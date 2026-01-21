@@ -21,7 +21,7 @@ export default function Projects() {
       description:
         "A modern personal portfolio built with React + Vite showcasing professional projects and skills.",
       tech: ["React", "Vite", "React Router"],
-      link: "https://diybookoflife.github.io/react-portfolio/",
+      link: "https://diybookoflife.github.io/portfolio/",
       image: MPA,
     },
     {
