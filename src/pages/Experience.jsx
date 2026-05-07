@@ -12,7 +12,7 @@ export default function Experience() {
     >
       <div className="experience-item">
         <h3>Technical Support Specialist — TEKsystems</h3>
-        <p className="experience-dates">Jul 2025 – Present | Remote</p>
+        <p className="experience-dates">Jul 2025 – Dec 2025 | Remote</p>
         <p className="experience-description">
           Provide technical support for enterprise users by diagnosing and
           resolving system issues quickly and accurately. Use a range of
@@ -32,8 +32,8 @@ export default function Experience() {
           closely with engineering teams to identify root causes, test backend
           fixes, and verify solutions in production. Created clear, reusable
           technical documentation that sped up training and reduced resolution
-          time. Built strong communication and debugging skills that ultimately
-          sparked my transition into Software Engineering.
+          time. Developed strong communication, analytical, and debugging skills
+          that transitioned naturally into Software Engineering.
         </p>
       </div>
     </motion.section>

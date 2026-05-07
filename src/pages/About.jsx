@@ -11,26 +11,31 @@ export default function About() {
       viewport={{ once: true }}
     >
       <p className="about-paragraph">
-        I’m a <strong>Front-End Software Engineer</strong> dedicated to building{" "}
-        <strong>modern, accessible web experiences</strong> that combine design
-        and functionality. My core focus is on <strong>JavaScript</strong> and{" "}
-        <strong>React</strong> — crafting responsive, intuitive interfaces that
-        feel seamless and user-centered across all devices.
+        I’m a <strong>Full-Stack Software Engineer</strong> focused on building{" "}
+        <strong>modern, responsive web applications</strong> using{" "}
+        <strong>React</strong>, <strong>JavaScript</strong>,{" "}
+        <strong>Node.js</strong>, and the <strong>MERN stack</strong>. I enjoy
+        creating intuitive, user-focused experiences that combine clean design
+        with scalable functionality.
       </p>
       <p className="about-paragraph">
-        Before transitioning into Software Engineering, I spent over a decade at
-        AT&T in Technical Support, where I developed strong{" "}
-        <em>debugging instincts</em> and a systematic, detail-oriented approach
-        to problem-solving.
+        I’m currently expanding my cloud and infrastructure knowledge through{" "}
+        <strong>AWS Cloud Practitioner Essentials</strong> and{" "}
+        <strong>Amazon Connect Foundations</strong>, while continuing to
+        strengthen my skills in full-stack development and Python programming.
       </p>
+
       <p className="about-paragraph">
-        Outside of my full-time role, I{" "}
-        <strong>design and build websites</strong> for small businesses and
-        individuals, helping them create a strong digital presence that aligns
-        with their brand and goals. I’m passionate about writing{" "}
-        <em>clean, efficient code</em> and delivering{" "}
-        <strong>polished, reliable solutions</strong> that feel both purposeful
-        and visually engaging.
+        Before transitioning into Software Engineering, I spent over a decade in
+        Technical Support, where I developed strong <em>debugging instincts</em>
+        , analytical thinking, and a detail-oriented approach to
+        problem-solving.
+      </p>
+
+      <p className="about-paragraph">
+        I’m passionate about writing <em>clean, maintainable code</em> and
+        building <strong>polished, reliable solutions</strong> that solve
+        real-world problems while delivering a seamless user experience.
       </p>
     </motion.section>
   );

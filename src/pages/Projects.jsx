@@ -5,9 +5,18 @@ import faceRec from "../assets/faceRec.png";
 import landingPage from "../assets/landingPage.png";
 import MPA from "../assets/MPA.png";
 import weather from "../assets/weather.png";
+import MERN from '../assets/MERN.png'
 
 export default function Projects() {
   const projectData = [
+    {
+      title: "Pro-Tasker-MERN-App",
+      description:
+        "Full-stack MERN project management app with secure authentication, project/task CRUD, and ownership-based authorization.",
+      tech: ["React", "Vite", "Node.js", "Express.js", "MongoDB", "Mongoose", "JWT", "CSS"],
+      link: "https://pro-tasker-frontend.netlify.app/",
+      image: MERN,
+    },
     {
       title: "The Chef’s Kiss (AI Recipe App)",
       description:

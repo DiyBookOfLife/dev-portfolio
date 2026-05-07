@@ -399,3 +399,22 @@ section p {
     transform: translateY(-3px);
   }
 }
+
+
+.contact-button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.9rem 1.6rem;
+  background: #4f46e5;
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.contact-button:hover {
+  background: #6366f1;
+  transform: translateY(-2px);
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+}

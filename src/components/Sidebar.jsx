@@ -11,8 +11,8 @@ export default function Sidebar({
     <aside className="sidebar">
       <div className="sidebar-header">
         <h1>Toni Thomas</h1>
-        <h3>Front-End Software Engineer</h3>
-        <p>Building modern, accessible web experiences.</p>
+        <h3>Software Engineer</h3>
+        <p>Building modern full-stack web applications.</p>
       </div>
 
       <nav className="sidebar-nav">
