@@ -32,7 +32,7 @@ export default function Projects() {
       description:
         "Responsive country explorer app with search, region filtering, dark mode, and real-time country data integration.",
       tech: ["React", "Vite", "REST API", "JavaScript", "CSS"],
-      link: "https://ps-mod7-project.vercel.app/",
+      link: "https://world-scope-project-flags.vercel.app/",
       image: countries,
     },
     {
