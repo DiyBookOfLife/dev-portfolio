@@ -7,6 +7,7 @@ import MPA from "../assets/MPA.png";
 import weather from "../assets/weather.png";
 import MERN from "../assets/MERN.png";
 import countries from "../assets/countries.png";
+import QRCode from "../assets/QR-code.png";
 
 export default function Projects() {
   const projectData = [
@@ -74,6 +75,14 @@ export default function Projects() {
       tech: ["HTML", "JavaScript", "CSS"],
       link: "https://diybookoflife.github.io/landing-project/",
       image: landingPage,
+    },
+    {
+      title: "QR Code Component",
+      description:
+        "Responsive QR code landing page built from a Frontend Mentor challenge with modern layout and mobile-friendly design.",
+      tech: ["HTML", "CSS", "Responsive Design"],
+      link: "https://frontend-figma-qrcode.vercel.app/",
+      image: QRCode,
     },
   ];
 
